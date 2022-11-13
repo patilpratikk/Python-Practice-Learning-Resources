@@ -1,0 +1,9 @@
+	==========================================
+			II) Sequence Data Types:
+	==========================================
+=>The purpose is to store Sequence of Values such as String data  or  numerical values.
+=>We have 4 types in Sequence Data Types. They are
+		a) str
+		b) bytes
+		c) bytearray
+		d) range

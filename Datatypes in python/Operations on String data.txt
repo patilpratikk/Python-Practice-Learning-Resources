@@ -1,0 +1,55 @@
+		=======================================
+			Operations on String data
+		=======================================
+=>On the String Data, we can Perform two types of Operations. They are
+		a) Indexing
+		b) Slicing
+-----------------------------------------------------------------------------------------------
+a) Indexing:
+-----------------------             
+=>The Process of obtaining a single value from existing strobj  by passing valid existing Index is called Indexing.
+--------------
+Syntax:-
+-------------
+		strobj [ Index ]
+=>here strobj is an object of <class, 'str'>
+=>here  index can be either +ve  or  -ve
+=>If index is valid existing index then we get value .
+=>If index is Invalid then we IndexError
+
+Examples:
+------------------
+>>> s="PYTHON"
+>>> print(s[0])---------------------P
+>>> print(s[-6])--------------------P
+>>> print(s[5])-----------------N
+>>> print(s[-1])--------------N
+>>> print(s[-10])-------->IndexError: string index out of range
+----------------------------------------------------------------------------------------------------------
+b) Slicing:
+----------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
