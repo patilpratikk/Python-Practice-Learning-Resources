@@ -1,0 +1,15 @@
+		===============================================
+			Reading the  Input Data from Key Board
+		===============================================
+=>To read the data dynamically from Key board , In python we have two pre-defined Functions. They are
+		a) input()
+		b) input(message)
+------------------------------------------------------------------------------------------------------------
+a) input():
+----------------
+=>This function is used reading any type of data from Key Board in the form <class,'str'>
+Syntax:-      varname=input()
+
+=>here varname is an object of type <class,'str'>
+=>We can convert str type value into any other type of value.
+----------------------------------------------------------------------------------------------------
